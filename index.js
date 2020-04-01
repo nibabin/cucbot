@@ -19,8 +19,13 @@ client.on('message', message => {
 	if (!message.content.startsWith(prefix) || message.author.bot) return;
 	const args = message.content.slice(prefix.length).split(/ +/);
 	const command = args.shift().toLowerCase();
+	if(command != 'q' && command != 'a' && command != 'qa') return;
 	const number = Number(args.shift());
-	if(Math.floor(number) != number || number < 0 || number >= pachet.length) message.channel.send("Invalid");
+	if(!message.member.roles.cache.find(role => role.name === 'chad')){
+		message.channel.send('Nu esti chad.');
+		return ;
+	}
+	if((Math.floor(number) != number || number <= 0 || number >= pachet.length)) message.channel.send("Invalid");
 	else{
 		const intrebare = pachet[number - 1];
 		const text = intrebare.toString().split(delimitator_b)[0];

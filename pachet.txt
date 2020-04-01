@@ -1,310 +1,493 @@
+Вопрос 1: Герой английского романа, отправляясь из провинции в столицу, получает в подарок зонт с нанесённой на него АЛЬФОЙ. Назовите АЛЬФУ тремя словами, начинающимися на соседние буквы алфавита.
 
-Întrebare: Un proiect implementat de ornitologii din Novosibirsk care urmărește deplasarea unor vulturi a avut de suferit din cauza unor cheltuieli neplanificate. De vina a fost comportamentul imprevizibil al uneia din păsări și X-ul. Răspundeți peste un minut printr-un cuvânt împrumutat ce a fost înlocuit prin X
-Răspuns: Roaming
-Comentariu: Vă rugăm să deconectați sunetul telefoanelor mobile și să nu le utilizați în timpul jocului.
-Sursă: https://www.m24.ru/news/proisshestviya/25102019/94707 
-Autor: Sandu Cojocari, LAREME
+Ответ: карта лондонского метро.
 
-Întrebare: Un articol din Los Angeles Times despre creatorii limbilor artificiale se numește „Arhitecții moderni ai LUI”. Ce este el?
-Răspuns: Turnul Babel
-Comentariu: Majoritatea creatorilor limbilor artificiale își propun să inventeze o limbă universală pe care s-o vorbească toți, la fel cum, conform legendei biblice, făceau creatorii Turnului Babel.
-Criteriu: răspuns exact.
-Sursă: https://www.latimes.com/archives/la-xpm-2007-aug-24-sci-conlang24-story.html
-Autor: Andrei Lutenco, LAREME
+Зачёт: по смыслу с удержанием формы.
 
-Întrebare: „Pâinea cu ALFA. X cu X” este titlul unui articol de pe blogul culinar al Natei Albot.
-Emisiunea umoristică Lumina a distribuit pe Facebook articolul, atenționându-și, în glumă, urmăritorii că titlul acestuia este foarte politic. Restabiliți ALFA și X.
-Răspuns: Maia, pas.
-Comentariu: Articolul este un ghid pe pași (pas cu pas) despre pregătirea pâinii cu maia. Conform DEX, maia este o cultură de fermenți folosită pentru a produce un proces de fermentație în materia în care este însămânțată.
-Criteriu: răspuns exact.
-Sursă: https://facebook.com/emisiunea.lumina/posts/3088269794523275 https://nataalbot.md/2019/10/04/painea-cu-maia-pas-cu-pas/
-Autor: Roman Vasilașcu, LAREME
+Комментарий: герой отправляется в Лондон и получает от друзей очень полезный подарок.
+
+Источник(и): Н. Гейман, «Никогде».
+
+Автор: Алексей Амосов.
+
+Вопрос 2:
+
+Раздаточный материал
+Несексизм
+Перед вами название статьи Анастасии Травкиной, в которой говорится о том, что большая связь между полушариями мозга, чаще наблюдающаяся у женщин, даёт способности к математике. Какие три буквы мы пропустили в названии статьи?
+Ответ: йро.
+
+Комментарий: речь идет о различиях в строении мозга и том, как они влияют на способности представителей разных полов.
+
+Источник(и): https://www.wonderzine.com/wonderzine/life/life/232705-neurosexism
+
+Автор: Денис Никитенко.
+
+Вопрос 3: Предновогодняя викторина на одной радиостанции, в которой можно выиграть до 50 тысяч рублей, получила название «ОНА». Какое числительное входит в ЕЁ название?
+
+Ответ: 13.
+
+Зачёт: то же самое словами.
+
+Комментарий: ОНА – тринадцатая зарплата.
+
+Источник(и): эфир «Ретро-ФМ» от 30.12.2016.
+
+Автор: Алексей Амосов.
+
+Вопрос 4: Кирилл Дементьев сравнил медленную игру сборной России в матче против сборной Катара с ЭТИМ. А полицейским города Харнтсвилль ЭТО помогло опознать преступников. Назовите ЭТО по-английски.
+
+Ответ: Mannequin challenge.
+
+Зачёт: с незначительными орфографическими ошибками.
+
+Комментарий: участники популярного флэшмоба, изображавшие перестрелку, в действительности оказались преступниками.
+
+Источник(и): 1. Трансляция матча Катар — Россия от 10.11.2016 2. https://video.vesti-ukr.com/214281-kopy-opoznali-podozrevaemykh-na-video-maneken-chelendzh
+
+Автор: Алексей Амосов.
+
+Вопрос 5: На одной англоязычной карикатуре человек в белых одеждах держит в руках плакат, на котором написано, что он ненавидит рыжих. Какому заболеванию посвящена эта карикатура?
+
+Ответ: дислексии.
+
+Зачёт: дисграфии.
+
+Комментарий: мужчина в характерном балахоне ненавидит не рыжих, но из-за дисграфии не может об этом сообщить.
+
+Источник(и): https://9gag.com/gag/aNKG124/goddamn-dyslexia
+
+Автор: Алексей Амосов.
+
+Вопрос 6: В одном из эпизодов австралийского мультсериала «Звёздный пёс» главные герои встречают космический корабль, экипаж которого называет себя новым звеном эволюции человека. Напишите односложное название этого корабля.
+
+Ответ: «Бигль».
+
+Комментарий: бигль – это не только порода собак, но и название корабля, на котором путешествовал Чарльз Дарвин; кстати, в Австралии есть город Дарвин.
+
+Источник(и): мультсериал «Звёздный пёс», сезон 1, серия 11.
+
+Автор: Дмитрий Анциферов.
+
+Вопрос 7: В русской локализации игры «GTA III» одна из миссий называется «Я ору, ты орёшь». В этой миссии главный герой должен уничтожить врагов, взорвав одно транспортное средство. Назовите максимально точно, какое именно?
+
+Ответ: фургон с мороженым.
+
+Зачёт: по упоминанию транспортного средства и мороженого.
+
+Комментарий: Известна английская детская считалочка «I scream, you scream, we all scream for ice-cream»; локализаторы «GTA III» недалеко ушли от знаменитых ПОТРАЧЕНО и СИДОДЖИ.
+
+Источник(и): «GTA III», миссия «El Burro» в локализации Бука.
+
+Автор: Дмитрий Анциферов.
+
+Вопрос 8: Внимание, в вопросе словом «ИКС» мы заменили другие три слова. По иронии, преступник XVIII века Джонатан Уайлд был еще и известным ИКСОМ. Заглавный герой какого фильма 2012 года также был ИКСОМ?
+
+Ответ: «Джанго освобождённый».
+
+Комментарий: ИКС – охотник за головами; Уайлд умудрялся одновременно совершать дерзкие преступления и ловить преступников; «Джанго освобождённый» – культовый фильм Квентина Тарантино.
+
+Источник(и): 1. http://mirchudes.net/people/1736-jonathan-wild-jack-sheppard.html 2. https://www.kinopoisk.ru/film/586397/
+
+Автор: Денис Никитенко.
+
+Вопрос 9:
+
+Раздаточный материал
+
+    
+
+Назовите любого из тех, кто в начале 2000-х нанёс татуировку с розданным изображением.
+Ответ: Илайджа Вуд. Зачёт: Шон Астин, Доминик Монаган, Билли Бойд, Вигго Мортенсен, Шон Бин, Йен МакКеллен, Орландо Блум, дублёр Джона Рис-Дэвиса. =) Незачёт: Джон Рис-Девис. =)
+
+Комментарий: почти все актёры, игравшие Хранителей Кольца из трилогии Питера Джексона, нанесли себе татуировки со словом «девять» на Тенгваре; номер вопроса – дополнительная подсказка.
+
+Источник(и): http://funtattoo.ru/?p=21361
+
+Автор: Алексей Амосов.
+
+Вопрос 10: В комиксе «Марвелс» описывается история появления первых американских супергероев в конце 1930-х годов. Когда героиня в панике забегает в бар и кричит, что видела «огненного человека», её поднимают на смех. Бармен скептически предполагает, что это опять ЕГО проделки. Напишите ЕГО фамилию.
+
+Ответ: Уэллс.
+
+Комментарий: видимо, в памяти людей ещё была свежа известная радиопостановка «Войны Миров».
+
+Источник(и): Marvels №1, 1994.
+
+Автор: Дмитрий Анциферов.
+
+Вопрос 11:
+
+Раздаточный материал
+Pride of Baghdad
+Графическая новелла «Гордость Багдада» рассказывает о семье, принадлежавшей Саддаму Хуссейну. Когда глава семьи погибает, его сыну приходится выживать в суровой обстановке Иракской войны. Сайт spidermedia.ru называет этот комикс «ИКСОМ» для взрослых. Какие два слова, начинающиеся на соседние буквы алфавита, мы заменили на ИКС?
+Ответ: Король лев.
+
+Комментарий: слово «pride» переводится не только, как «гордость»; комикс, разумеется, про львов.
+
+Источник(и): 1. http://spidermedia.ru/mustread, №37 2. https://en.wikipedia.org/wiki/Pride_of_Baghdad
+
+Автор: Дмитрий Анциферов.
+
+Вопрос 12: Комментируя непродуманность календаря Российской премьер-лиги, Павел Пучков называет Хабаровск «футбольными ИМИ». Посетив ИХ, автор вопроса приобрёл сувенир, выполненный в форме спирали. Назовите ИХ.
+
+Ответ: Соловки. Зачёт: Соловецкие острова.
+
+Комментарий: 15 команд РФПЛ периодически ссылают играть в Хабаровск; каменные лабиринты – одна из достопримечательностей Соловков.
+
+Источник(и): 1. 1. https://www.championat.com/football/article-3381813-match-amkar--lokomotiv-mozhet-projti-v-habarovske.html 2. https://ru.wikipedia.org/wiki/Лабиринт_(северный_мегалит) 3. ЛОАВ
+
+Автор: Алексей Амосов.
+
+Вопрос 13: В 1634 году будущий правитель Бутана Шабдрунг одержал победу в Битве пяти ИХ. ИХ появление в Европе связывают с именем Франсиско Писарро, который продемонстрировал ИХ Карлу V в качестве доказательства. Назовите ИХ.
+
+Ответ: ламы.
+
+Комментарий: Писарро привёз из Перу несколько лам, чтобы доказать завоевание империи инков; в первом предложении речь идёт о буддийских монахах.
+
+Источник(и): 1. https://ru.wikipedia.org/wiki/Битва_пяти_лам 2. http://www.chronoton.ru/nature/lama
+
+Автор: Алексей Амосов.
+
+Вопрос 14: Адриан и Элизабет – герои романа «Звёздная бабочка» – вдвоём живут на пустынной планете. Вскоре Элизабет погибает, а Адриан обзаводится другой спутницей по имени Эйв, которой советует остерегаться... Кого?
+
+Ответ: змей.
+
+Комментарий: концовка романа полна аллюзий на Библию: Адриан – Адам, Элизабет – Лилит, а новую супругу главный герой создал из собственного ребра.
+
+Источник(и): 1. Б. Вербер, «Звёздная бабочка» 2. https://fr.wikipedia.org/wiki/Le_Papillon_des_etoiles
+
+Автор: Алексей Амосов.
+
+Вопрос 15: Мужчина, пытавшийся СДЕЛАТЬ ЭТО в тюрьме итальянского города Триест, был оштрафован на 25 евро за порчу наволочек. В произведении 1993-го года, как и в его экранизации 1999-го года, четыре девушки одновременно ДЕЛАЮТ ЭТО. Какие два слова, начинающиеся на одну и ту же букву, мы заменили на СДЕЛАТЬ ЭТО.
+
+Ответ: совершить самоубийство.
+
+Зачёт: совершить суицид.
+
+Комментарий: заключённый пытался повеситься, а петлю сделал из наволочек, за что и был оштрафован с формулировкой «за сознательный ущерб имуществу государственной администрации»; во второй части вопроса речь идёт о романе Джеффри Евгинидиса «Девственницы-самоубийцы», на основе которого Софией Копполой был снят одноимённый фильм.
+
+Источник(и): 1. http://www.aif.ru/society/9856 2. Джеффри Евгинидис, «Девственницы-самоубийцы» 3. «Девственницы-самоубийцы», 1999, реж. София Коппола
+
+Автор: Алексей Амосов.
+
+Вопрос 16: Согласно популярной шутке, города Билефельд не существует. Назовите день, когда горсовет Билефельда официально заявил, что все-таки город существует.
+
+Ответ: 1 апреля [1999 года].
+
+Источник(и): https://ru.wikipedia.org/wiki/Билефельдский_заговор
+
+Автор: Богдан Чадромцев.
+
+Вопрос 17: В англоязычном мультсериале «Чемпионы» на вопрос одноклубника о планах сделать подарок девушке герой ответил: «когда угодно, где угодно». Назовите эту девушку.
+
+Ответ: Шакира [Изабэль Мебарак Риполь].
+
+Комментарий: Действие происходит в стане ФК «Барселона», вопрос был задан Жерару Пике; «Whenever, Wherever» – песня Шакиры, жены Пике.
+
+Источник(и): https://www.youtube.com/watch?v=1DwZoX8D_MY
+
+Автор: Богдан Чадромцев.
+
+Вопрос 18: 7 августа 1974 года Филипп несколько раз прогулялся от Северной к Южной, за что потом был вынужден дать представление для детей. На чём?
+
+Ответ: на канате.
+
+Комментарий: Филипп Пети – известный канатоходец, фильм «Прогулка» посвящен ему.
+
+Источник(и): https://ru.wikipedia.org/wiki/Пети,_Филипп
+
+Автор: Богдан Чадромцев.
+
+Вопрос 19: На 1 тонну урана в минералах приходится 0.1 мг полония. Говоря о том, как трудно найти полоний, Илья Леенсон упоминает ЕЁ в целом поле. Что, согласно фольклорному источнику, находится на НЕЙ?
+
+Ответ: смерть Кощея [Бессмертного]. Зачет: жизнь Кощея [Бессмертного].
+
+Комментарий: она – игла.
+
+Источник(и): Илья Леенсон, «Тайная жизнь химических веществ».
+
+Автор: Богдан Чадромцев.
+
+Вопрос 20: Лю Цысинь пишет, что научную фантастику ценит за возможность ДЕЛАТЬ ЭТО. О том, как ЭТО БЫЛО СДЕЛАНО, можно прочитать в первой главе «Бытия». Ответьте, ДЕЛАТЬ ЧТО?
+
+Ответ: создавать мир.
+
+Комментарий: В книге «Бытие» рассказывается и о создании Мира.
+
+Источник(и): 1. Лю Цысинь, послесловие к английскому изданию романа «Задача трех тел» 2. https://ru.wikipedia.org/wiki/Книга_Бытия
+
+Автор: Богдан Чадромцев.
+
+Вопрос 21: Говоря о том, чем является «Сумма теологии», известный поляк упоминает инженерную деятельность природы и человеческих рук. Какие две буквы мы пропустили в предыдущем предложении?
+
+Ответ: хн.
+
+Комментарий: «Сумма технологии» – философско-футуристический трактат Станислава Лема, название которого является аллюзией на «Сумму теологии» Фомы Аквинского.
+
+Источник(и): https://ru.wikipedia.org/wiki/Сумма_технологии
+
+Автор: Богдан Чадромцев.
+
+Вопрос 22: В серии шуточного мультсериала «Происхождение видов», посвященной ЕМУ, сарацин отрубает две головы чудища, а третью оставляет. А затем его одомашнивает. Назовите ЕГО.
+
+Ответ: верблюд. Зачет: бактриан.
+
+Комментарий: Сарацины – это представители кочующего племени разбойников-бедуинов на ближнем Востоке; от отрубленных голов остались шеи, которые преобразовались в горбы.
+
+Источник(и): мультсериал «Происхождение видов».
+
+Автор: Богдан Чадромцев.
+
+Вопрос 23:
+
+Раздаточный материал
 
 
-Întrebare: Un joc nou de societate are ca bază realitățile din satul Românesc tradițional. Fiecare jucător începe cu un cuplu dintr-un bărbat și o femeie. Aceștia pe parcursul jocului agonisesc avere și fac copii. Partea centrală a jocului este negocierea în formă liberă dintre jucători. Dați-vă seama ce negociază aceștia și numiți jocul cu un cuvînt, cică de origine dacă.
-Răspuns: Zestrea
-Comentariu: Jucătorii negociază căsătoriile și transferurile de bunuri asociate - adică zestrea, asta fiind unul dintre principalele moduri de agonisire a proprietății.
-Criteriu: Exact.
-Sursă: https://www.kickstarter.com/projects/valiant-game-studio/zestrea-a-marriage-negotiation-board-game
-Autor: Andrei Lutenco, LAREME
+Ответьте названием произведения 1833 года, что мы скрыли на розданном логотипе серии «Петербургский детектив»?
+Ответ: Медного всадника.
 
-	
-Întrebare: Prima atestare documentară a localității datează din anul 1455. Într-un document scris în limba slavonă este pomenită localitatea Cheșenăul Roșu. Într-o scrisoare a domnitorului Petru Rareș din 1535 este menționată o localitate de lîngă rîul Botna, numită Marele Cheșenău. Peste un minut scrieti denumirea actuala a orasului, care provine de la latinul cavus.
-Răspuns: Căușeni
-Comentariu: Causeni vine de la cuvintul caus, care in latina este cavus
-Criteriu: Exact.
-Sursă: https://ro.wikipedia.org/wiki/C%C4%83u%C8%99eni
-Autor: Petru Feghiu, LAREME
+Комментарий: Фуражка напоминает «гром-камень», на котором стоит медный всадник; «Медный всадник» – поэма А.С. Пушкина.
 
-	•	
-Întrebare: O legendă urbană explică originea acestui cuvînt englez prin faptul că ELE ar veni din toate colțurile lumii. Numiți acest cuvînt englez.
-Răspuns: News
-Comentariu: Ele sunt știrile. North, East, West, South sunt punctele cardinale. De fapt există etimologii mai credibile ale cuvântului englezesc. 
-Criteriu: exact
-Sursă: https://www.etymonline.com/columns/post/north,-east,-west,-south,-not
-Autor: Andrei Lutenco, LAREME
+Источник(и): Андрей Константинов, «Бандитский Петербург».
 
-Întrebare: Zilele trecute, Donald Trump s-a lăudat că faimosul său zid de hotar deja se construiește în statele din sud, menționînd și Colorado. Problema e că statul Colorado nu este la hotar. Internauții au preluat gafa și au continuat-o:
-Trump: Vom construi un zid în Colorado și X va plăti pentru el. Ce am înlocuit cu X?
-Răspuns: New Mexico
-Comentariu: Trump s-a mai remarcat cu afirmația că Mexicul va plăti pentru zidul său. Statul american New Mexico se află exact la sud de Colorado.
-Criteriu: 
-Sursă: https://www.rt.com/usa/471691-trump-border-wall-colorado/
-Autor: Ion Vasilică, LAREME
+Автор: Богдан Чадромцев.
 
-	
-Întrebare: Fender Telecaster este un model de ghitara electrica cu un design simplu și robust. Componentele ghitarii sunt produse în masa și sunt interschimbabile în caz de defect. Muzicianul Alex Harvey o compară cu X, și spune ca aceasta avea o putere de penetrare mai mare decat X. Numiți X folosind 5 simboluri.
-Răspuns: AK-47
-Comentariu: La fel ca și ghitara, AK-47 își datora succesul datorită faptului că era ușor de preparat din bucățile altor AK-47 pe campul de lupta, unde accesul la resurse era limitat. Alex Harvey considera că muzica avea un impact mai mare decat forțele armate
-Criteriu: Exact
-Sursă: https://www.youtube.com/watch?v=SW5E5XnyIWI
-Autor: Ion Dodi, LAREME
+Вопрос 24: Увеличение давления со стороны правоохранителей в регионах привело к миграции бандитов в Санкт-Петербург. Андрей Константинов называет это эффектом АЛЬФЫ. Фтор стал появляться в АЛЬФЕ с конца XIX века. Что мы заменили на АЛЬФУ?
 
+Ответ: зубная паста.
 
-Întrebare: Într-un articol despre apariția acestui dispozitiv în 1979 apare următorul citat: „Viața a devenit un film”. Numiți dispozitivul.
-Răspuns: walkman
-Comentariu: Mergi pe stradă iar în urechi ai coloana sonoră...
-Criteriu: player ș.a.m.d.
-Sursă: https://www.smithsonianmag.com/innovation/walkman-invention-40-years-ago-launched-cultural-revolution-180972552/
-Autor: Sandu Cojocari, LAREME
+Источник(и): 1. Андрей Константинов, «Бандитский Петербург» 2. http://mirfactov.com/otkuda-berutsya-poloski-v-zubnoy-paste/ 3. https://en.wikipedia.org/wiki/Toothpaste
 
-Întrebare: În jocul de societate Zestrea, bazat pe realitățile sumbre ale satului românesc, țăranii pot de exemplu muri în încăierări din bar, sau să fie atacați și omorîți de cîini. Ce personaj din joc este remunerat în aceste cazuri?
-Răspuns: Preotul
-Comentariu: Asta e situația.
-Criteriu: Popa, pastorul, etc.. 
-Sursă: https://www.kickstarter.com/projects/valiant-game-studio/zestrea-a-marriage-negotiation-board-game
-Autor: Andrei Lutenco, LAREME
+Автор: Богдан Чадромцев.
 
-Întrebare: Stînjenul este o unitate de masură veche folosita pe teritoriul Moldovei si României care inițial avea aproximativ statura unui om. Cuvîntul stinjen iși are originea din latina. X are aceeași origine ca și stînjenul și inițial desemna o unitate de masură de aproximativ 100 stînjeni. Peste un minut numiți X-ul dacă primul X din Moldova a fost deschis in anii 20 ai secolului trecut pe fosta piața nemțească.
-Răspuns: Stadion
-Comentariu: Stadionul
-Criteriu: 
-Sursă: 
-Autor: Petru Feghiu, LAREME
+Вопрос 25: В одной комнате специализированного музея в Москве можно увидеть опухоли на раковинах аммонитов, сросшиеся кристаллы минералов и прочие диковинки. Ответьте двумя словами, начинающимися на парные согласные, как называется эта комната?
 
-	
-Întrebare: Unul dintre sensurile rădăcinii proto-indo-europeane „per” este de „a risca, a încerca”. Printre cuvintele care conțin această rădăcină: empiric, pericol, dar posibil și englezescul fear (frică). Numiți partidul Suedez, apărut în 2006, numele căruia conține aceeași rădăcină, fondat de antreprenorul în domeniul tehnologiilor informaționale Rick Falkvinge.
-Răspuns: (Partidul) Piraților
-Comentariu: 
-Criteriu: 
-Sursă: https://www.etymonline.com/word/*per-?ref=etymonline_crossreference#etymonline_v_52726
-https://en.wikipedia.org/wiki/Pirate_Party
-Autor: Andrei Lutenco, LAREME
+Ответ: геологическая кунсткамера.
 
-	
-Întrebare: Într-un interviu, Charles, născut în 1912, zice că probabil era sa fie mai interesant dacă avea o copilărie groaznică, însă este unul dintre acei oamenii ciudați care au avut, de fapt, o copilărie fericită. Nu vă întrebăm care e familia lui Charles, dar care e familia lui Charles? 
-Răspuns: Addams
-Comentariu: Nu întîmplător am menționat de două ori cuvîntul familie ;) Charles Addams este creatorul benzilor desenate Addams Family.
-Criteriu: Adams
-Sursă: https://www.smithsonianmag.com/arts-culture/cultural-history-addams-family-180973315/
-Autor: Sandu Cojocari, LAREME
+Комментарий: камера – это комната по-латыни; аммониты – вымершие в мезозое моллюски.
 
-	
-Întrebare:Blitz dublu
-Aveți în față două dangale ce le putem vedea pe drapelele a două raioane din Moldova. Dangalele sunt simboluri runice folosite de popoarele turcice.
-Prima întrebare: pe drapelul acestui raion putem observa dangaua "tarah" caracteristică unui trib tatar și care s-ar traduce ca pieptene. Peste 30 sec scrieți denumirea raionului.
-A doua întrebare. În a doua imagine vedem dangaua „ciumeci", la fel caracteristică unui trib tătăresc care a colindat meleagurile noastre. Peste 30 sec scrieți denumirea raionului. 
-Răspuns: 1) Taraclia 2) Cimișlia
-Comentariu: Taraclia vine de la Tarah-ili, tarah fiind pieptene iar ili loc sau așezare iar Cimișlia de la ciumeci-ili, ciumeci fiind căuș și ili așezare.
-Criteriu: 
-Sursă: https://ro.wikipedia.org/wiki/Cimișlia
-https://ro.wikipedia.org/wiki/Raionul_Taraclia
-http://s155239215.onlinehome.us/turkic/30_Writing/301Tamgas/CrimeaTatarTamgasEn.htm
-Autor: Petru Feghiu, LAREME
+Источник(и): Геологический музей им. В.И. Вернадского.
 
-		
-Întrebare: Eul liric al lui James Merrill, aflat la natură, ÎL compară cu o bandă de alergat (treadmill) din sticlă, care (citat) „se vindecă perpetuu de la rănile făcute de noi”. Numiți-l cu titlul unei poezii de Eminescu.
-Răspuns: Lacul
-Comentariu: Eul liric vâslește pe un lac.
-Sursă: James Merrill, Changing Light at Sandover
-Autor: Andrei Lutenco, LAREME
+Автор: Богдан Чадромцев.
 
-	
-Întrebare: A patra se numește Protiste și conform omului de știință Chris Reid e o etichetă aplicată pentru „tot ceea ce nu înțelegem cu adevărat". Peste un minut numiți-le pe celelalte trei.
-Răspuns: Plante, Animale, Ciuperci
-Comentariu: 
-Criteriu: 
-Sursă: https://www.npr.org/2019/10/20/771285312/the-blob-a-smart-yet-brainless-organism-fit-for-sci-fi-gets-its-own-exhibit?fbclid=IwAR2ESr_84I3mtP9b_oThkmPt1aaCTjUXalSkkSQHCAgx7Duv-sv9lkHDy38 
-Autor: Sandu Cojocari, LAREME
+Вопрос 26: Говоря о прошедшем в 1995 году концерте, музыканты группы «Тайм-Аут» отмечают, что у них была самая холодная аудитория – около ста человек. Тем не менее, концерт считается самым посещаемым за всю историю ЭТОГО МЕСТА. В одной из серий мультфильма «Ледниковый период» туда же отправляется провинившийся герой, чтобы попросить прощения. У кого?
 
-		
-Întrebare: Cele mai multe state Americane s-au alăturat uniunii în timpul administrației președintelui Benjamin Harrison între anii 1889-1893 - tocmai șase. Totuși, neoficial, se poate spune că recordul (7 state) aparține altui președinte, datorită eforturilor predecesorului său. Numiți deținătorul recordului sau pe predecesor.
-Răspuns: (Andrew) Johnson, sau (Abraham) Lincoln
-Comentariu: Înaintea Războiului Civil din SUA 11 state din Sud au secesionat de uniune. După cîștigul Nordului, acestea au fost, pe rînd, readmise în rîndul statelor, cele mai multe dintre ele în timpul președinției lui Andrew Johnson, succesorul lui Lincoln. SUA niciodată nu a recunoscut secesiunea.
-Criteriu: 
-Sursă: https://en.wikipedia.org/wiki/Reconstruction_era#Reconstruction_state-by-state_%E2%80%93_significant_dates
-Autor: Andrei Lutenco, LAREME
+Ответ: у Санта-Клауса.
 
-		
-Întrebare: Din 1919 pâna în 1934 stema acestui stat avea pe ea următoarele elemente, secera ce reprezenta țărănimea, ciocanul ce reprezenta clasa muncitoare, coroana murala ce reprezenta burghezia. După 1945 stema a fost reintrodusă și i s-a mai adaugat un lanț rupt ce reprezintă eliberarea de dictatura național socialistă. Numiți statul.
-Răspuns: Austria
-Comentariu: 
-Criteriu: 
-Sursă: https://en.wikipedia.org/wiki/Coat_of_arms_of_Austria
-Autor: Petru Feghiu, LAREME
+Комментарий: концерт проходил на северном полюсе, а кроме этого, музыканты и их люди играли там же в футбол; ленивец Сид разрушил Рождественский камень, за что попал в черный список Санта-Клауса.
+
+Источник(и): 1. http://www.time-out.ru/band/story/north_pole/ 2. https://ru.wikipedia.org/wiki/Ледниковый_период:_Гигантское_Рождество
+
+Автор: Богдан Чадромцев.
+
+Вопрос 27:
+
+Раздаточный материал
 
 
-Întrebare: După ce a fost salvat de măcelar, Picasso a produs pentru salvatorii săi opere de artă în valoare de 145000 $. Din acest titlu de articol a fost ștearsă o literă. Care?
-Răspuns: g 
-Comentariu: Haha! Era un porc!
-Sursă: https://www.goodnewsnetwork.org/pig-produces-145000-masterpieces-for-rescuers/ 
-Autor: Sandu Cojocari, LAREME
-		
-Întrebare: Fiecare are o zi pe care o urăște. Scrieți numele de familie al președintelui american care a murit luni pe 19 septembrie 1881.
-Răspuns: Garfield
-Comentariu: James Garfield a murit după ce a fost împușcat de Charles Guiteau. Motanul Garfield, personaj de benzi desenate și filme, urăște ziua de luni. Apropo motanul e numit în cinstea bunicului autorului benzilor desenate care, la rîndul său, a fost numit în cinstea lui James Garfield. Un indiciu în plus a fost numărul întrebării - J Garfield a fost al 20-lea președinte american.
-Criteriu: Exact. 
-Sursă: https://en.wikipedia.org/wiki/James_A._Garfield
-https://en.wikipedia.org/wiki/Garfield
-Autor: Andrei Lutenco, LAREME
+Мы вам раздали две строчки стишка. Для запоминания чего он был придуман?
+Ответ: [числа] пи. Зачёт: π.
 
-		
-Întrebare: Acest acronim de 7 litere a fost inventat în 2003 și îi este cunoscut probabil oricărui utilizator internet. dar cărui nume îi corespunde litera "t" din acesta?
-Răspuns: Turing
-Comentariu: "Completely Automated Public Turing test to tell Computers and Humans Apart"
-Criteriu: exact
-Sursă: https://en.wikipedia.org/wiki/CAPTCHA
-Autor: Sandu Cojocari, LAREME
- 
-	
-Întrebare: Iată o listă de cărți: Realizările politice ale Contelui de Dalkeith, un pamflet politic din 1880; La ce se gîndește fiecare bărbat în afară de sex, de Jimmy Moncrief sau cartea multicoloră Fifty Shades of Gray de Simove Shed. Ce au în comun aceste cărți?
-Răspuns: Au paginile goale / nu au text.
-Comentariu: Cărțile date aveau paginile goale, de regulă cu scop ironic. Cartea fifty shades of gray consta din pagini goale de diferite nuanțe ale culorii gri.
-Criteriu: după sens.
-Sursă: https://en.wikipedia.org/wiki/Empty_book 
-Autor: Andrei Lutenco, LAREME
- 
+Комментарий: если 22 поделить на 7 получится примерно π; раздаточный материал напоминает дробь. Источник: https://shkolazhizni.ru/culture/articles/14621/
 
-Întrebare: 
-(Textul pe foițe s-ar traduce ca „Narcis aplecat deasupra…”
-Poetul James Merrill disprețuiește pe cei ce cred în ereditate ca factor determinant petru caracterul și soarta omului. Reproduceți cele două cuvinte în engleză omise din textul de pe foițe.
-Răspuns: gene pool
-Comentariu: Narcis era aplecat deasupra unui lac (pool în engleză). Gene pool în engleză înseamnă fond genetic.
-Sursă: James Merrill, Changing Light at Sandover
-Autor: Andrei Lutenco, LAREME
- 
-Întrebare: Paradoxal, prima oară ea a fost propusă în sensul ei de azi de un italian - Gian Giorgio Trissino - în lucrarea numită Ɛpistola del Trissino de le lettere nuωvamente aggiunte ne la lingua italiana (). Ea lipsește în tabelul periodic. Numiți-o.
+Автор: Богдан Чадромцев.
 
-Răspuns: litera J
-Comentariu: E paradoxal pentru că limba italiană nu folosește această literă decît pentru cuvintele împrumutate.
-Criteriu: 
-Sursă: https://en.wikipedia.org/wiki/J
-Autor: Echipa Ad Astra
+Вопрос 28: Бьорн Ломборг скептично пишет, что ОНО приведет к снижению смертности от холода. Назовите ЕГО двумя словами.
 
-Întrebare: Cneazul Sviatopolk I al Kievului, a rămas în istorie pentru că a poruncit să fie omorîți cneazii Boris și Gleb. În rusă el este cunoscut ca Sviatopolk Окаянный. Etimologia populară a cuvîntului окаянный îl leagă de un nume propriu. Ce nume?
-Răspuns: Cain
-Comentariu: Boris și Gleb erau frații lui Sviatopolk. Primul fratricid, potrivit Bibliei, a fost comis de Cain.
-Criteriu: 
-Sursă: https://ru.wiktionary.org/wiki/%D0%BE%D0%BA%D0%B0%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9 https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D0%BA_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9E%D0%BA%D0%B0%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9
-Autor: Andrei Lutenco, LAREME
+Ответ: Глобальное потепление.
 
-Întrebare: Criticul literar Seth Schein spune că abia după ce își răpune adversarul, personajul antic se transformă din X într-un adevărat erou, în el însuși. De aceea, se poate spune că personajul nu minte. X este mai nou protagonistul multor meme-uri. Cine a fost înlocuit prin X. 
-Răspuns: Nimeni
-Comentariu: În Odiseea lui Homer, Odiseu i se prezintă ciclopului Polifem cu numele nimeni. Potrivit lui Schein, întreaga epopee a lui Odiseu este o căutare de sine a protagonistului și acesta devine el însuși doar înfruntîndu-ș dușmanii. Mai nou sunt cunoscute meme-urile despre „Nobody”, „Noone” sau „Litteraly No One” folosite pentru a face haz de oamenii care solicită atenție pentru chestii neînsemnate.
-Criteriu: 
-Sursă: 
-https://grbs.library.duke.edu/article/viewFile/10221/4375C 
-https://knowyourmeme.com/memes/nobody
-Autor: Andrei Lutenco, LAREME
+Комментарий: также Ломборг пишет, что от жары сейчас гибнет в несколько раз меньше людей, чем от холода, и призывает не так бояться глобального потепления.
+
+Источник(и): 1. https://www.libfox.ru/620375-8-born-lomborg-ohladite-globalnoe-poteplenie-skepticheskoe-rukovodstvo.html#book 2. https://ru.wikipedia.org/wiki/Ледниковый_период_2:_Глобальное_потепление
+
+Автор: Богдан Чадромцев.
+
+Вопрос 29: Гуннар Грапс основал группу «Магнетик бэнд» и считался пионером хэви-метал в СССР. За это Гуннара называли Мстителем. Какие два слова в предыдущем предложении мы заменили одним?
+
+Ответ: Железным человеком.
+
+Комментарий: Железо – это металл, обладающий магнитными свойствами; Гуннара Грапса прозвали «железный человек»; Железный человек входит в команду Мстителей.
+
+Источник(и): 1. https://ru.wikipedia.org/wiki/Железный_человек 2. https://ru.wikipedia.org/wiki/Грапс,_Гуннар
+
+Автор: Богдан Чадромцев.
+
+Вопрос 30:
+
+Раздаточный материал
+
+    
+
+Что изобрел человек, чью фотографию мы вам раздали?
+Ответ: караоке.
+
+Источник(и): «Мир наизнанку», 6 серия, 9 сезон.
+
+Автор: Богдан Чадромцев.
+
+Вопрос 31: В послевоенные годы на одной из улиц Архангельска располагалась шеренга пивных и винно-водочных ларьков, которую не могли преодолеть портовые рабочие. Местные в шутку называли улицу ЕЮ. Настоящая ОНА включала в себя множество пунктов, к числу которых относились Колккала, Муолаанкюля и Кивиниеми. Назовите ЕЁ двумя словами, начинающимися на соседние буквы алфавита.
+
+Ответ: Линия Маннергейма.
+
+Зачёт: С незначительными орфографическими ошибками в фамилии «Маннергейм».
+
+Комментарий: Линия Маннергейма – знаменитый комплекс оборонительных сооружений, особенно прославившийся в годы советско-финской войны, которая предшествовала Великой Отечественной Войне; портовые рабочие, направляющиеся после смены домой, не могли равнодушно миновать шеренгу ларьков, напивались и валились спать прямо там; местное население шутило, что рабочие не смогли прорваться сквозь Линию Маннергейма.
+
+Источник(и): 1. Ирина Сидорова, «Сентиментальные прогулки в город детства» 2. https://ru.wikipedia.org/wiki/Линия_Маннергейма
+
+Автор: Анастасия Поскотинова.
+
+Вопрос 32: В дискуссии о походах средневекового завоевателя, пользователь одного исторического форума назвал его войско ПИОНЕРАМИ. Догадавшись, какое слово мы заменили словом «ПИОНЕРЫ», назовите имя завоевателя, о котором шла речь.
+
+Ответ: Тамерлан. Зачёт: Тимур.
+
+Комментарий: а его воинов участник дискуссии, соответственно, назвал «тимуровцами».
+
+Источник(и): http://vif2ne.org/nvk/forum/0/co/2864107.htm
+
+Автор: Павел Смирнов.
+
+Вопрос 33: В одной из серий мультсериала «Новая жизнь Рокко» жабу иронично называют ПРОПУСК. ПРОПУСК – название английского романа середины XX века. Заполните ПРОПУСК двумя словами.
+
+Ответ: повелитель мух.
+
+Комментарий: соответственно рациону его питания.
+
+Источник(и): мультсериал «Новая жизнь Рокко», серия «Cabin fever».
+
+Автор: Анастасия Поскотинова.
+
+Вопрос 34: В 2016 году пожар в парижском театре «Могадор» полностью уничтожил зеркало сцены, а также костюмы и декорации для грандиозного шоу, приуроченного к 30-летнему юбилею известного мюзикла. Это событие позволило любителям мистики утверждать, что ОН до сих пор здесь. Ответьте двумя словами, начинающимися на соседние буквы алфавита, кто ОН?
+
+Ответ: призрак оперы.
+
+Комментарий: символично, что театр «Опера Популер» в романе Гастона Леру «Призрак оперы» также пострадал от сильного пожара.
+
+Источник(и): https://www.mk.ru/culture/2016/09/26/pozhar-v-parizhskom-teatre-mogador.html
+
+Автор: Анастасия Поскотинова.
+
+Вопрос 35: В 2010 году вдохновителем для коллекции бельевой марки «Etam» стала Наталья Водянова – всемирно известная модель, родившаяся в городе Горький. По словам критиков, в результате получилась удачная ОНА. ОНА – это название напитка из шампанского и кваса, популярного среди гусар после войны 1812 года. Назовите ЕЁ четырьмя словами.
+
+Ответ: смесь французского с нижегородским.
+
+Комментарий: «Etam» – это французская марка нижнего белья; Наталья Водянова родилась в городе Горький, который впоследствии вернул свое историческое название – Нижний Новгород; говорят, что Грибоедов откуда-то знал про существование напитка, потому и использовал это выражение впоследствии в своем произведении «Горе от ума».
+
+Источник(и): 1. https://www.patee.ru/news/stars/view/?id=19832 2. http://cyclowiki.org/wiki/Смесь_французского_с_нижегородским
+
+Автор: Анастасия Поскотинова.
+
+Вопрос 36:
+
+Раздаточный материал
 
 
+Это здание, признанное украшением Копенгагена, за свой внешний вид получило название «ТАКОЙ ИКС». В романе Мор Йокаи с ТАКИМИ ИКСАМИ сравниваются глаза девушки, по образному выражению автора, прорезавшие стеклянный сосуд, в котором хранил свое сердце главный герой. Какие слова были заменены на ТАКОЙ ИКС?
+Ответ: черный алмаз. Зачет: черный бриллиант.
 
-Întrebare: Pe marginea șoselei, undeva între Slobozia Mare și Giurgiulești, poți vedea un indicator de felul celui din imagine, fără vreo inscripție pe el. Ce vînd cei care au instalat semnul?
-Răspuns: Lemn
-Comentariu: Cuvintele sunt în plus.
-Criteriu: se acceptă scînduri, lemne de construcție, de foc etc.
-Sursă: Observațiile autorului.
-Autor: Andrei Lutenco, LAREME
- 
+Комментарий: Здание Королевской библиотеки Дании называют «Black Diamond» за характерный внешний вид, слова «признанное украшением» – небольшая подсказка; в романе, который, кстати, тоже называется «Чёрные алмазы», с ними сравнивали глаза девушки, в которую влюбился главный герой; известно, что для резки стекла используются алмазные резцы.
 
-Întrebare: Fostul prim-ministru Jamaican, Edward Seaga a fost mult timp liderul opoziției față de guvernul de orientare socialistă a lui Michael Manley, ultimul fiind un bun prieten cu Fidel Castro. Oponenții adesea îi scriau altfel numele de familie a lui Seaga. Cum? 
-Răspuns: CIAga
-Comentariu: Seaga era susținut de americani.
-Sursă: Filmul „Who shot the sheriff?”, pe Netflix
-Autor: Andrei Lutenco
+Источник(и): 1. https://formaxfun.com/top-38-samyx-neobychnyx-bibliotek-mira/ 2. http://www.e-reading.club/bookreader.php/93859/Yokai_-_Chernye_almazy.html
 
-	
-Întrebare: Se poate spune că în primele ilustrații, cele făcute de Vilhelm Pedersen în 1849, ELE sunt de fapt o cămașă de noapte. Ce sunt ELE?
-Răspuns: Hainele cele noi ale împăratului
-Comentariu: Povestea de H.C. Andersen. „- Împăratul e dezbrăcat!” de regulă e interpretat în zilele noastre în sensul că împăratul e gol. Pe timpurile lui Andersen, însă, cămașa de noapte era suficientă.
+Автор: Анастасия Поскотинова.
 
-Criteriu: Hainele cele noi ale regelui, și după sens dacă echipa a înțeles despre poveste.
-Sursă: https://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes
-Autor: Andrei Lutenco
+Вопрос 37: Говоря о получившем повреждение футболисте команды, спешившей забить гол в концовке матча, телекомментатор отметил, что ему поскорее нужно отправиться ТУДА. Через несколько секунд комментатор поправился, сказав, что на самом деле игроку нужно СЮДА, а ТУДА он отправится несколько позже. Какие два слова мы заменили словом «ТУДА»?
 
-		
-Întrebare:  O legendă Irlandeză povestește despre un bețiv care îl înșeală în repetate rînduri pe Satana. Atunci cînd acesta moare, Satana nu îl primește în iad, ci, ca pedeapsă, îl trimite să umble prin noapte, purtînd cu el un cărbune încins înăuntru unei rădăcini de rapiță, ca să îi sperie pe alții. Dar care este prenumele acestui personaj irlandez.
-Răspuns: Jack
-Comentariu: Potrivit unor păreri anume de la acest Stingy Jack a apărut dovleacul cu lumînări Jack O’Lantern, atributul indispensabil al sărbătorii Halloween. 
-Criteriu: Exact.
-Sursă: https://en.wikipedia.org/wiki/Stingy_Jack 
-Autor: Andrei Lutenco, LAREME
+Ответ: на боковую.
 
-		
-Întrebare: Mai nou, EL este folosit în Spania pentru a da cuvintelor o terminație gender-neutră, adică a înlocui terminațiile masculine și feminine (de exemplu „o” și „a”). Scrieți-l.
-Răspuns: @ (arond)
-Comentariu: semul @ (arond) combină literele o și a.
-Criteriu: 
-Sursă: https://en.wikipedia.org/wiki/Gender_neutrality_in_Spanish 
-Autor: Lidia Scarlat, Bifidoc & Andrei Lutenco, LAREME
- 
-	
-Întrebare: Stema cărui stat o aveți în față?
-Răspuns: New Mexico
-Comentariu: Vulturul din față este și pe drapelul Mexicului, iar cel din spate e vulturul cu cap alb de pe stema SUA. 
-Criteriu: 
-Sursă: https://en.wikipedia.org/wiki/Seal_of_New_Mexico
-Autor: Andrei Lutenco, LAREME
- 
-	
-Întrebare: Un poster pentru turiști în limba engleză de la aeroportul Chișinău, văzut prin iunie, îi îndemna să prețuiască și să se bucure de vara moldovenească. În poster putem vedea un copil și pe ELE. Numiți-le.
-Răspuns: Cireșe
-Comentariu: Fraza era: Cherish the Moldovan Summer
-Criteriu: exact, se poate de acceptat vișine :)
-Sursă: observație a autorului, prin iunie 
-Autor: Andrei Lutenco, LAREME
- 
-	
-Întrebare: Răspundeți printr-un singur cuvînt pe cine și ce am acoperit în această imagine?
-Răspuns: Theremin
-Comentariu: 
-Criteriu: Termen, Thermen , Thermenvox, etc
-Sursă: https://www.smithsonianmag.com/innovation/century-ago-this-eerie-sounding-instrument-ushered-in-electronic-music-180973126/
-Autor: Sandu Cojocari, LAREME
- 
-	
-Întrebare:
-În poemul lui James Merrill, lacul, devenind neted și opac, de culoarea cafe-au-lait, parcă ar face un X peisajului dimprejur, care se reflectă în el. Ce cuvînt, care provine de la un nume propriu a fost înlocuit cu X?
-Răspuns: Dagherotip
-Comentariu: Lacul parcă ar face o fotografie peisajului.
-Criteriu: 
-Sursă: James Merrill, The Changing Light at Sandover
-Autor: Andrei Lutenco, LAREME
+Комментарий: словом «СЮДА» были заменены слова «за боковую»; травмированному футболисту следовало побыстрее переместиться за боковую линию поля, чтобы матч мог продолжиться.
 
-	
-		
-Întrebare: Într-un articol din septembrie 2019, autorul zice că în sua există 480.000 de taxiuri londoneze negre. În 2012, 14 raioane din Moldova au primit 35 de taxiuri londoneze care erau, și ele, negre. Care trei cuvinte au fost înlocuite în întrebare?
-Răspuns: Autobuze școlare galbene
-Comentariu: 
-Criteriu: 
-Sursă: 
-https://mecc.gov.md/ro/content/hai-cu-noi-la-o-scoala-mai-buna-35-autobuze-scolare-pentru-elevii-din-14-raioane
-Autor: Sandu Cojocari, LAREME
+Источник(и): трансляция футбольного матча «Краснодар» — «Уфа» от 09.12.2018.
 
-		
-Întrebare: În serialul animat Bojack Horseman despre un cal - actor, o ALFA tunde tufarii și iarba. Cine a fost înlocuit cu ALFA?
-Răspuns: oaie
-Comentariu: un fel de paradox.
-Criteriu: 
-Sursă: Serialul Bojack Horseman
-Autor: Andrei Lutenco, LAREME
- 
-		
-Întrebare: Gluma de pe internet:
-„I-am zis copilului meu sa nu se mai joace în ruleta ruseasca. Dar știți cum e cu copiii...”. Continuați gluma cu un frazeologism în limba română.
-Răspuns: Pe o ureche îi intră, pe alta îi iese
-Comentariu: Ruleta rusească..copii.. :)
-Criteriu: după sens
-Sursă: reddit.com
-Autor: Cezar Țivirenco, Bifidoc
+Автор: Алексей Кузнецов.
 
+Вопрос 38: Прибыв в Австралию, герой романа Ю Несбё, норвежский полицейский Харри Холе, настроенный поправлять местных жителей, которые будут называть ЕЁ «дырой», был удивлен, услышав вариант «святоша». Назовите ЕЁ как можно точнее.
+
+Ответ: Холе.
+
+Зачёт: фамилия Холе, фамилия Харри Холе и другие синонимичные ответы. Комментарий: Харри ожидал, что австралийцы будут произносить его фамилию как Hole – «дыра», однако в действительности услышал более миролюбивое коверкание Holy.
+
+Источник(и): Ю Несбё, «Нетопырь».
+
+Автор: Алексей Кузнецов.
+
+Вопрос 39: В 2015 году британские ученые объявили о поиске добровольцев среди ИКСОВ для исследования, в рамках которого планировалось брать у испытуемых мазки с целью изучения морских бактерий. Свой выбор ученые объяснили тем, что ИКСЫ за один заплыв случайно заглатывают в 10 раз больше морской воды, чем пловцы. Назовите ИКСОВ одним словом.
+
+Ответ: серфингисты. Зачет: сёрферы.
+
+Комментарий: серфингисты во время плавания глотают большое количество воды, что может повлиять на формирование особых комбинаций бактерий; волна может подкрасться незаметно.
+
+Источник(и): https://oper.ru/news/read.php?t=1051615552
+
+Автор: Алексей Кузнецов.
+
+Вопрос 40: Блиц. 3 вопроса по 20 секунд обсуждения каждый. 1. По распространенной версии, ЕЁ название происходит от латинского слова «Sequana». Назовите ЕЁ. 2. По итогам проведенного в 2000 году социологического опроса ОН был призван соотечественниками величайшим бразильцем в истории, опередив в голосовании самого Пеле. Назовите ЕГО фамилию. 3. Свое название ТАКАЯ площадь получила в конце XVIII века из-за того, что на её месте продавался некий товар. Любопытно, что одно из предыдущих ее названий – Конная. Какое слово в тексте вопроса мы заменили словом «ТАКАЯ»?
+
+Ответ: 1. Сена 2. Сенна 3. Сенная
+
+Источник(и): 1. http://fb.ru/article/135968/reka-sena-kak-simvol-parija-i-vsey-frantsii 2. https://ru.wikipedia.org/wiki/Сенна_Айртон 3. https://ru.wikipedia.org/wiki/Сенная_площадь_(Санкт-Петербург)
+
+Автор: Алексей Кузнецов.
+
+Вопрос 41: Любопытно, что известная чешская фирма, производящая в том числе и ИКСЫ, была названа в честь крупного алмаза. Человек, получивший широкую известность как ИКС, на заре карьеры выступал в образе Чарли Чаплина. Назовите ИКС.
+
+Ответ: карандаш.
+
+Комментарий: и алмаз, и графит – разные формы одного и того же элемента – углерода; в молодости Михаил Румянцев выступал в образе популярнейшего зарубежного комика.
+
+Источник(и): 1. https://ru.wikipedia.org/wiki/Koh-i-Noor_Hardtmuth 2. https://ru.wikipedia.org/wiki/Карандаш_(клоун)
+
+Автор: Алексей Кузнецов.
+
+Вопрос 42:
+
+Раздаточный материал
+продавец хот-догов
+офицер охраны
+игрок в казино
+водитель школьного автобуса
+старик с собачкой
+
+
+    
+Перед вами – некоторые из ролей, сыгранных в кино неким человеком. Его настоящая фамилия – Либер. Назовите этого человека.
+Ответ: Стэн Ли
+
+Источник(и): https://ru.wikipedia.org/wiki/Ли,_Стэн
+
+Автор: Алексей Кузнецов.
+
+Вопрос 43:
+
+Раздаточный материал
+
+
+На розданном вам кадре из фильма 1988 года ИХ двое. Однако в другом фильме, появившемся спустя более чем двадцать лет, в какой-то момент ИХ оказалось сразу семеро. Назовите ЕГО.
+Ответ: Гарри Поттер.
+
+Комментарий: на кадре из фильма «Тролль» изображены главный герой фильма – Гарри Поттер-младший и его отец – Гарри Поттер-старший; создатели фильма впоследствии утверждали, что Джоан Роулинг позаимствовала из фильма некоторые сцены, не говоря уже об имени главного героя.
+
+Источник(и): https://en.wikipedia.org/wiki/Troll_(film)
+
+Автор: Павел Смирнов.
+
+Вопрос 44: Одна из выигрышных стратегий в этой игре была описана математиком Яковом Перельманом. Забавно, но однажды автор вопроса наказал студентов рыбопромышленного техникума за то, что во время занятия они играли в эту игру. Назовите эту игру.
+
+Ответ: морской бой.
+
+Комментарий: а вот что еще играть будущим морякам?
+
+Источник(и): ЛОАВ
+
+Автор: Алексей Кузнецов.
+
+Вопрос 45: Свой отказ ОН объяснил тем, что научился вычислять пустоты и теперь знает, как управлять Вселенной. Вопреки известному заблуждению, ЕГО отец Яков был инженером-электриком. Напишите ЕГО фамилию.
+
+Ответ: Перельман.
+
+Комментарий: речь идет о Григории Перельмане, отказавшемся от миллиона долларов за доказательство гипотезы Пуанкаре; вопреки распространённому заблуждению, известный популяризатор физики, математики и астрономии Яков Исидорович Перельман, упомянутый в предыдущем вопросе, не является отцом Григория Яковлевича Перельман.
+
+Источник(и): https://korrespondent.net/tech/science/1212586-perelman-rasskazal-pochemu-otkazalsya-ot-premii-v-1-mln
+
+Автор: Алексей Кузнецов.
