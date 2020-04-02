@@ -17,6 +17,7 @@ module.exports = {
 		}
 		const time = Number(args.shift());
 		message.channel.send(delimitator_a + intrebare.toString().split(delimitator_b)[0]);
+		message.channel.send('-------------------------------------------');
 		if(time >= 10){
 			setTimeout(function(){
 				client.channels.cache.find(ch => ch.name === 'echipa-roz').send('10 secunde');
@@ -29,6 +30,7 @@ module.exports = {
 				client.channels.cache.find(ch => ch.name === 'echipa-negru').send('Timpul');
 				client.channels.cache.find(ch => ch.name === 'echipa-verde').send('Timpul');
 				message.channel.send(delimitator_b + intrebare.toString().split(delimitator_b)[1]);
+				message.channel.send('-------------------------------------------');
 		}, (time) * 1000);
 		
 	}
