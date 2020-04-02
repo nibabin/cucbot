@@ -7,10 +7,6 @@ module.exports = {
     	}
 	},
 	execute(message, args, pachet){
-		if(!message.member.roles.cache.find(role => role.name === 'chad')){
-			message.channel.send('Nu esti chad.');
-			return ;
-		}
 		let users = message.mentions.members.array();
 		this.shuffleArray(users);
 		const nr = Math.floor(users.length / Number(args.shift()));
@@ -21,8 +17,8 @@ module.exports = {
 				message.channel.send(names[Math.floor(k / nr)] + ':');
 			}
 			if(!hz.user) continue;
-			if(!hz.user.nickname) message.channel.send(hz.user.username);
-			else message.channel.send(hz.user.nickname);
+			if(!hz.nickname) message.channel.send(hz.user.username);
+			else message.channel.send(hz.nickname);
 			let rol = message.guild.roles.cache.find(role => role.name === names[Math.floor(k / nr)]);
 			hz.roles.add(rol);
 			k += 1;
