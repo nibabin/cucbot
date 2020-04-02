@@ -26,6 +26,10 @@ client.once("ready", async () => {
 
 client.on('message', message => {
 	if (!message.content.startsWith(prefix) || message.author.bot) return;
+	if (!message.member.roles.cache.find(role => role.name === 'chad')){
+			message.channel.send('Nu esti chad.');
+			return ;
+	}
 	const args = message.content.slice(prefix.length).split(/ +/);
 	const commandName = args.shift().toLowerCase();
 	if(!client.commands.has(commandName)) return ;
