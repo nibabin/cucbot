@@ -29,7 +29,7 @@ client.on('message', message => {
 	else{
 		const intrebare = pachet[number - 1];
 		const text = intrebare.toString().split(delimitator_b)[0];
-		if(text.includes("Material distributiv") || text.includes("material distributiv") || text.includes("imagine")){
+		if(text.includes("Material distributiv") || text.includes("material distributiv") || text.includes("imagine") || text.includes("Imagine")){
 			message.channel.send("NU! Contine material distributiv.")
 		}
 		else{

@@ -2,6 +2,6 @@
 	"prefix": "?",
 	"token" : "Njk0NTc4NDgxNzEwNzU5OTQ3.XoNsfA.BYINb1dXW_ph9Ek_cfLwXIac1EU",
 	"filename" : "pachet.txt",
-	"delimitator_a" : "Вопрос ",
-	"delimitator_b" : "Ответ:"
+	"delimitator_a" : "Întrebarea",
+	"delimitator_b" : "Răspuns"
 }
