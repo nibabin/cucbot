@@ -9,7 +9,7 @@ module.exports = {
 	execute(message, args, pachet){
 		let users = message.mentions.members.array();
 		this.shuffleArray(users);
-		const nr = Math.floor(users.length / Number(args.shift()));
+		const nr = Math.ceil(users.length / Number(args.shift()));
 		const names = ['echipa-roz', 'echipa-verde', 'echipa-negru'];
 		let k = 0;
 		for(const hz of users){
